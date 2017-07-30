@@ -1,4 +1,5 @@
 @echo off
+title Bebop2CopyMoveRecord2USBDrive
 REM ------- MENU -----------
 cls
 ECHO.
